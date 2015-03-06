@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     char pp;//Character to be used to display !!
     char ii;//Character to be used to display 00
     //Prompt for the letter C to be user
-    cout<<"type in cs!0 to make it come out all big and stuff"<<endl;
+    cout<<"type in cs!0, or whatever letters you want, to make it come out all big and stuff!!"<<endl;
     cin>>c>>s>>pp>>ii;
     //Output Big C
     cout<<"***********************************************************"<<endl;
