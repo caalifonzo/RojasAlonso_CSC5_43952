@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     //Prompt for the letter C to be user
     cout<<"type in cs!0, or whatever letters you want, to make it come out all big and in the shape of CS!"<<endl;
     cin>>c>>s>>pp>>ii;
-    //Output Big C
+    //Output Big C S !
     cout<<"***********************************************************"<<endl;
     cout<<"   "<<c<<c<<c<<"                    "<<s<<s<<s<<s<<"    "<<pp<<endl;
     cout<<"  "<<c<<"    "<<c<<"                 "<<s<<"    "<<s<<"   "<<pp<<endl;
