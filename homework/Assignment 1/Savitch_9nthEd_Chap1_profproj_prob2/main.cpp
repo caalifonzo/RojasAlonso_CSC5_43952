@@ -29,14 +29,14 @@ int main(int argc, char** argv) {
     cin>>c>>s>>pp>>ii;
     //Output Big C S !
     cout<<"***********************************************************"<<endl;
-    cout<<"   "<<c<<c<<c<<"                    "<<s<<s<<s<<s<<"    "<<pp<<endl;
-    cout<<"  "<<c<<"    "<<c<<"                 "<<s<<"    "<<s<<"   "<<pp<<endl;
-    cout<<" "<<c<<"       "<<"               "<<s<<"         "<<pp<<endl;
-    cout<<c<<"                        "<<s<<"        "<<pp<<endl;
-    cout<<c<<"                         "<<s<<s<<s<<s<<"    "<<pp<<endl;
-    cout<<c<<"                             "<<s<<"   "<<pp<<endl;
+    cout<<"   "<<c<<c<<c<<"                    "<<s<<s<<s<<s<<"    "<<pp<<pp<<endl;
+    cout<<"  "<<c<<"    "<<c<<"                 "<<s<<"    "<<s<<"   "<<pp<<pp<<endl;
+    cout<<" "<<c<<"       "<<"               "<<s<<"         "<<pp<<pp<<endl;
+    cout<<c<<"                        "<<s<<"        "<<pp<<pp<<endl;
+    cout<<c<<"                         "<<s<<s<<s<<s<<"    "<<pp<<pp<<endl;
+    cout<<c<<"                             "<<s<<"   "<<pp<<pp<<endl;
     cout<<" "<<c<<"                       "<<s<<"    "<<s<<endl;
-    cout<<"  "<<c<<"    "<<c<<"                  "<<s<<s<<s<<s<<"    "<<ii<<endl;                
+    cout<<"  "<<c<<"    "<<c<<"                  "<<s<<s<<s<<s<<"    "<<ii<<ii<<endl;                
     cout<<"   "<<c<<c<<c<<endl;
     cout<<"***************************************************************"<<endl;
     cout<<"Computer Science is Cool stuff!!!!"<<endl;
